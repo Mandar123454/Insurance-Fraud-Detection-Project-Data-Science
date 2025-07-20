@@ -1,0 +1,1001 @@
+claim_amount,injury_type,repair_shop,claim_delay,vehicle_age,num_previous_claims,region,Label
+29967.14,None,Non-Partnered,55,3,0,West,Not Fraud
+23617.36,None,Non-Partnered,102,9,3,North,Not Fraud
+31476.89,Minor,Partnered,118,4,3,North,Not Fraud
+40230.3,Minor,Non-Partnered,82,9,2,South,Not Fraud
+22658.47,None,Non-Partnered,26,11,2,West,Not Fraud
+22658.63,Major,Partnered,6,9,4,South,Not Fraud
+40792.13,None,Non-Partnered,4,12,1,South,Not Fraud
+32674.35,Minor,Partnered,108,10,2,West,Not Fraud
+20305.26,Minor,Partnered,115,15,3,South,Not Fraud
+30425.6,Major,Partnered,29,7,2,North,Not Fraud
+20365.82,Minor,Partnered,59,7,0,West,Not Fraud
+20342.7,Major,Non-Partnered,98,7,1,West,Not Fraud
+27419.62,None,Non-Partnered,17,12,4,West,Not Fraud
+5867.2,Major,Non-Partnered,107,1,0,West,Fraud
+7750.82,None,Partnered,43,11,0,South,Not Fraud
+19377.12,Major,Non-Partnered,117,9,1,South,Not Fraud
+14871.69,Minor,Non-Partnered,80,11,4,North,Not Fraud
+28142.47,Major,Partnered,66,10,3,East,Fraud
+15919.76,None,Partnered,34,14,4,East,Not Fraud
+10876.96,Minor,Non-Partnered,119,15,2,North,Not Fraud
+39656.49,Minor,Partnered,8,16,0,East,Not Fraud
+22742.24,Minor,Partnered,13,1,2,North,Not Fraud
+25675.28,None,Partnered,106,17,3,South,Not Fraud
+10752.52,None,Partnered,8,11,2,West,Not Fraud
+19556.17,None,Non-Partnered,94,18,4,West,Not Fraud
+26109.23,None,Partnered,96,17,2,South,Not Fraud
+13490.06,Major,Partnered,100,16,3,West,Not Fraud
+28756.98,None,Partnered,111,5,3,West,Not Fraud
+18993.61,Major,Partnered,94,14,3,East,Not Fraud
+22083.06,None,Partnered,65,2,4,South,Not Fraud
+18982.93,None,Partnered,43,5,3,East,Not Fraud
+43522.78,Minor,Partnered,39,2,0,East,Not Fraud
+24865.03,Minor,Partnered,81,0,3,West,Not Fraud
+14422.89,None,Non-Partnered,59,12,2,West,Not Fraud
+33225.45,Minor,Partnered,84,13,2,South,Not Fraud
+12791.56,Minor,Non-Partnered,88,12,2,West,Not Fraud
+27088.64,None,Partnered,114,3,4,West,Not Fraud
+5403.3,Major,Partnered,86,6,2,South,Not Fraud
+11718.14,Major,Partnered,93,9,4,West,Not Fraud
+26968.61,Minor,Partnered,86,6,4,East,Fraud
+32384.67,None,Non-Partnered,44,14,3,South,Not Fraud
+26713.68,Minor,Partnered,9,14,0,West,Not Fraud
+23843.52,None,Partnered,37,3,3,North,Not Fraud
+21988.96,None,Non-Partnered,74,5,3,South,Not Fraud
+10214.78,None,Non-Partnered,36,19,4,South,Not Fraud
+17801.56,None,Partnered,101,4,4,North,Not Fraud
+20393.61,Major,Non-Partnered,92,19,2,West,Not Fraud
+35571.22,Minor,Non-Partnered,28,11,2,West,Not Fraud
+28436.18,Minor,Non-Partnered,42,0,3,South,Not Fraud
+7369.6,None,Partnered,43,7,1,South,Not Fraud
+28240.84,None,Partnered,85,0,1,West,Not Fraud
+21149.18,None,Partnered,88,4,2,West,Not Fraud
+18230.78,Major,Non-Partnered,42,5,1,East,Not Fraud
+31116.76,None,Partnered,104,2,2,South,Not Fraud
+35310,Major,Non-Partnered,66,14,4,South,Not Fraud
+34312.8,Minor,Partnered,55,4,3,North,Not Fraud
+16607.82,None,Partnered,72,13,0,East,Not Fraud
+21907.88,Minor,Non-Partnered,48,17,3,West,Not Fraud
+28312.63,None,Partnered,91,15,2,East,Not Fraud
+34755.45,Major,Non-Partnered,22,5,2,West,Not Fraud
+20208.26,Major,Non-Partnered,101,13,3,West,Not Fraud
+23143.41,None,Partnered,27,7,2,East,Not Fraud
+13936.65,None,Non-Partnered,93,6,1,South,Not Fraud
+13037.93,Minor,Partnered,67,7,1,West,Not Fraud
+33125.26,Major,Partnered,108,12,2,East,Not Fraud
+38562.4,None,Non-Partnered,13,5,2,North,Not Fraud
+24279.9,Minor,Partnered,45,17,1,East,Not Fraud
+35035.33,Minor,Non-Partnered,10,1,2,North,Not Fraud
+28616.36,Minor,Partnered,100,7,2,West,Not Fraud
+18548.8,None,Partnered,9,10,3,East,Not Fraud
+28613.96,Minor,Partnered,54,0,0,East,Not Fraud
+40380.37,Major,Partnered,119,5,1,North,Not Fraud
+24641.74,None,Partnered,27,15,3,East,Not Fraud
+40646.44,None,Non-Partnered,34,19,0,East,Not Fraud
+-1197.45,Major,Non-Partnered,115,11,2,West,Not Fraud
+33219.03,None,Non-Partnered,1,10,2,East,Not Fraud
+25870.47,Major,Non-Partnered,32,9,3,South,Not Fraud
+22009.93,None,Non-Partnered,89,2,2,North,Not Fraud
+25917.61,None,Non-Partnered,93,12,4,East,Not Fraud
+5124.31,Major,Partnered,71,2,3,North,Not Fraud
+22803.28,None,Partnered,113,14,0,North,Fraud
+28571.13,Minor,Non-Partnered,67,15,3,North,Not Fraud
+39778.94,None,Non-Partnered,84,12,1,East,Not Fraud
+19817.3,Minor,Partnered,20,16,3,East,Not Fraud
+16915.06,None,Partnered,117,2,2,North,Not Fraud
+19982.43,None,Partnered,94,19,2,South,Not Fraud
+34154.02,Major,Non-Partnered,35,10,4,North,Not Fraud
+28287.51,None,Non-Partnered,99,18,4,South,Not Fraud
+19702.4,Minor,Non-Partnered,113,10,4,North,Not Fraud
+30132.67,None,Partnered,103,15,0,West,Fraud
+25970.78,Minor,Partnered,91,2,4,North,Not Fraud
+34686.45,None,Non-Partnered,90,5,0,North,Not Fraud
+17979.47,Major,Non-Partnered,78,13,4,East,Fraud
+21723.38,None,Partnered,17,17,0,South,Not Fraud
+21078.92,None,Partnered,18,16,3,West,Not Fraud
+10364.85,None,Partnered,45,3,3,South,Not Fraud
+27961.2,None,Partnered,116,14,2,West,Not Fraud
+27610.55,Minor,Non-Partnered,93,10,0,North,Fraud
+25051.13,None,Partnered,84,2,1,East,Fraud
+22654.13,Major,Partnered,53,2,2,East,Not Fraud
+10846.29,None,Partnered,91,15,3,South,Not Fraud
+20793.55,None,Non-Partnered,82,4,0,East,Not Fraud
+21572.85,Minor,Non-Partnered,68,9,4,South,Not Fraud
+16977.23,Minor,Partnered,65,18,1,South,Not Fraud
+23387.14,None,Partnered,114,3,3,West,Not Fraud
+29040.51,None,Partnered,1,18,2,South,Fraud
+43861.86,None,Non-Partnered,58,10,0,West,Fraud
+26745.78,Minor,Non-Partnered,26,1,1,East,Not Fraud
+27575.5,Minor,Non-Partnered,109,9,0,South,Not Fraud
+24255.54,None,Partnered,20,10,4,South,Not Fraud
+5812.29,Major,Non-Partnered,116,19,2,North,Not Fraud
+24734.86,Major,Partnered,87,15,0,South,Not Fraud
+25602.3,Minor,Partnered,10,18,3,South,Not Fraud
+49632.42,Major,Partnered,59,10,2,North,Not Fraud
+23076.39,None,Non-Partnered,75,13,3,North,Not Fraud
+28015.47,None,Partnered,41,1,0,East,Not Fraud
+24652.88,None,Non-Partnered,105,4,2,South,Fraud
+13313.22,None,Non-Partnered,5,4,3,East,Not Fraud
+36428.23,Minor,Partnered,65,18,4,East,Not Fraud
+32519.33,Major,Partnered,17,11,4,North,Not Fraud
+32910.32,None,Non-Partnered,22,17,0,West,Not Fraud
+15906.13,None,Partnered,98,3,2,East,Fraud
+39027.94,None,Non-Partnered,109,16,1,West,Not Fraud
+10981.49,Major,Partnered,41,9,2,South,Not Fraud
+30868.57,None,Non-Partnered,93,19,4,North,Not Fraud
+46904.56,Minor,Non-Partnered,68,5,3,South,Not Fraud
+15094.64,None,Non-Partnered,69,13,1,South,Not Fraud
+19337.02,None,Non-Partnered,11,10,0,North,Not Fraud
+25996.51,Major,Partnered,56,10,1,South,Not Fraud
+19965.24,Major,Partnered,51,17,0,North,Not Fraud
+9493.37,None,Non-Partnered,21,17,1,West,Not Fraud
+25685.63,Major,Non-Partnered,99,10,0,South,Not Fraud
+14376.96,Minor,Partnered,76,11,0,North,Not Fraud
+29735.92,Major,Partnered,26,4,1,East,Not Fraud
+15805.76,None,Partnered,115,8,1,South,Not Fraud
+40499.34,Minor,Partnered,19,8,0,West,Not Fraud
+17167.47,None,Partnered,109,9,4,North,Not Fraud
+21779.38,Minor,Partnered,60,18,1,South,Not Fraud
+33135.17,None,Non-Partnered,71,0,2,South,Not Fraud
+12691.36,None,Partnered,47,6,3,South,Not Fraud
+27274.6,None,Partnered,119,3,0,West,Not Fraud
+38071.43,Minor,Non-Partnered,71,0,0,North,Not Fraud
+8925.17,None,Partnered,26,14,3,East,Not Fraud
+26846.34,Minor,Partnered,40,7,4,East,Not Fraud
+27598.83,Major,Partnered,5,11,3,East,Not Fraud
+32818.23,None,Partnered,21,17,1,North,Not Fraud
+12630.49,Minor,Partnered,78,14,3,East,Not Fraud
+11795.43,None,Non-Partnered,4,16,0,West,Not Fraud
+30219.42,Major,Partnered,23,13,3,North,Not Fraud
+27969.85,None,Non-Partnered,106,13,2,South,Fraud
+27504.93,Minor,Non-Partnered,84,17,1,West,Not Fraud
+28464.48,Major,Partnered,15,19,3,South,Not Fraud
+18199.75,Major,Non-Partnered,114,17,0,East,Not Fraud
+27322.54,Minor,Partnered,116,15,1,West,Not Fraud
+27930.72,None,Non-Partnered,109,0,0,North,Not Fraud
+17856.49,Minor,Non-Partnered,93,10,4,West,Not Fraud
+43657.75,Major,Partnered,8,14,2,South,Not Fraud
+29738.33,Minor,Partnered,41,11,4,North,Not Fraud
+13086.97,None,Partnered,112,7,2,West,Not Fraud
+31565.54,Major,Partnered,19,19,3,West,Not Fraud
+15253.18,Minor,Partnered,112,5,1,West,Not Fraud
+32870.85,Minor,Non-Partnered,103,2,3,West,Not Fraud
+36585.96,None,Non-Partnered,46,12,2,North,Not Fraud
+16793.18,Minor,Non-Partnered,28,12,2,South,Not Fraud
+34633.76,None,Non-Partnered,110,1,2,West,Not Fraud
+29127.81,Minor,Non-Partnered,91,4,0,North,Not Fraud
+33220.6,None,Non-Partnered,68,16,1,South,Not Fraud
+43967.93,Minor,Non-Partnered,15,5,3,West,Not Fraud
+22546.12,Major,Partnered,99,1,3,South,Not Fraud
+17462.64,None,Partnered,37,3,4,South,Not Fraud
+16104.86,Major,Non-Partnered,1,10,2,North,Not Fraud
+16841.9,None,Non-Partnered,67,7,2,South,Not Fraud
+24228.98,Major,Partnered,111,11,2,North,Not Fraud
+28411.52,Minor,Partnered,24,7,3,West,Not Fraud
+27766.91,Minor,Partnered,27,10,4,South,Not Fraud
+33271.83,Minor,Partnered,40,19,0,South,Not Fraud
+25130.02,Major,Non-Partnered,63,7,1,East,Not Fraud
+39535.34,None,Partnered,61,7,0,West,Not Fraud
+22353.43,None,Non-Partnered,36,16,3,West,Not Fraud
+52201.69,Minor,Non-Partnered,98,19,2,East,Not Fraud
+31256.67,Major,Non-Partnered,93,19,1,East,Not Fraud
+16428.42,Minor,Partnered,24,15,3,North,Not Fraud
+14291.08,Minor,Partnered,24,13,3,North,Not Fraud
+29824.72,None,Non-Partnered,106,10,3,South,Not Fraud
+22765.37,Major,Non-Partnered,4,6,1,South,Not Fraud
+32140,None,Non-Partnered,67,15,1,South,Not Fraud
+29732.38,Minor,Partnered,34,12,4,South,Fraud
+24271.71,None,Non-Partnered,57,14,4,North,Not Fraud
+16532.06,None,Partnered,49,15,0,West,Not Fraud
+9851.53,None,Non-Partnered,87,8,1,South,Not Fraud
+20534.85,None,Non-Partnered,53,2,1,West,Not Fraud
+33563.99,Minor,Non-Partnered,116,18,1,South,Not Fraud
+27140.94,None,Partnered,23,19,4,East,Not Fraud
+12542.61,None,Partnered,109,4,3,South,Not Fraud
+26731.81,None,Non-Partnered,69,9,2,South,Not Fraud
+28853.17,None,Partnered,95,16,4,South,Not Fraud
+16161.43,None,Non-Partnered,53,14,1,North,Not Fraud
+26537.25,None,Partnered,62,7,4,East,Not Fraud
+25582.09,Minor,Partnered,41,14,0,South,Not Fraud
+13570.3,Minor,Partnered,57,13,1,South,Not Fraud
+28577.87,Minor,Non-Partnered,60,19,0,West,Not Fraud
+30607.85,None,Partnered,54,6,1,East,Not Fraud
+35830.51,None,Partnered,70,11,4,South,Fraud
+35538.02,Major,Non-Partnered,101,16,3,West,Not Fraud
+11223.31,Minor,Non-Partnered,57,16,2,West,Not Fraud
+15621.75,None,Non-Partnered,10,9,0,North,Not Fraud
+30150.35,None,Non-Partnered,40,18,4,West,Not Fraud
+30137.86,None,Partnered,7,13,3,South,Not Fraud
+30150.48,None,Partnered,103,10,4,North,Not Fraud
+63527.31,None,Partnered,38,1,0,North,Not Fraud
+30708.91,Minor,Partnered,85,17,2,South,Fraud
+36355.66,Minor,Partnered,61,6,4,East,Not Fraud
+34540.02,Minor,Non-Partnered,84,11,1,West,Not Fraud
+31513.91,Minor,Partnered,3,1,3,North,Not Fraud
+21847.31,Major,Partnered,51,19,4,East,Not Fraud
+32589.69,Minor,Partnered,86,17,3,South,Fraud
+17271.75,Major,Non-Partnered,47,5,1,West,Not Fraud
+22631.81,None,Non-Partnered,68,9,2,West,Not Fraud
+20146.36,None,Partnered,92,19,2,North,Not Fraud
+25818.74,None,Non-Partnered,76,14,1,West,Not Fraud
+48146.59,Minor,Non-Partnered,38,4,3,West,Not Fraud
+6327.35,Major,Non-Partnered,115,19,4,West,Not Fraud
+31862.6,None,Non-Partnered,36,2,1,West,Not Fraud
+8872.84,Major,Non-Partnered,111,4,0,South,Not Fraud
+20280.68,None,Non-Partnered,41,7,3,East,Not Fraud
+35889.51,Major,Non-Partnered,69,7,2,South,Not Fraud
+25642.8,None,Partnered,13,7,1,South,Fraud
+14222.55,None,Partnered,87,11,2,North,Not Fraud
+17846.96,None,Non-Partnered,58,7,3,West,Not Fraud
+31795.98,None,Partnered,50,10,2,South,Not Fraud
+17696.33,None,Partnered,30,13,1,West,Not Fraud
+27164.59,None,Non-Partnered,62,7,3,South,Not Fraud
+25455.72,Major,Partnered,101,9,0,South,Fraud
+18484,Minor,Non-Partnered,25,6,1,North,Not Fraud
+46439.44,None,Non-Partnered,112,16,4,East,Not Fraud
+31339.19,Minor,Non-Partnered,27,3,1,East,Not Fraud
+4748.57,Minor,Partnered,51,12,3,South,Not Fraud
+26864.54,None,Partnered,78,3,1,North,Fraud
+18382.14,None,Partnered,57,4,0,West,Not Fraud
+33524.33,None,Partnered,112,3,0,West,Fraud
+17074.79,None,Non-Partnered,47,17,4,South,Not Fraud
+23852.64,Minor,Non-Partnered,118,5,2,East,Fraud
+30049.87,None,Partnered,100,1,3,North,Not Fraud
+33657.55,Minor,Non-Partnered,39,10,3,East,Not Fraud
+12997.04,Minor,Non-Partnered,16,13,2,West,Not Fraud
+21654.99,None,Partnered,22,4,0,East,Not Fraud
+20250.55,Minor,Non-Partnered,85,5,0,West,Not Fraud
+18466.71,None,Partnered,54,9,1,North,Not Fraud
+42654.54,Major,Non-Partnered,21,7,4,North,Not Fraud
+29049.82,None,Partnered,72,13,4,South,Not Fraud
+12391.16,Major,Non-Partnered,113,2,4,South,Not Fraud
+34178.62,Minor,Non-Partnered,16,11,1,East,Not Fraud
+46221.56,None,Partnered,59,15,4,North,Not Fraud
+35324.65,Minor,Partnered,119,16,2,North,Not Fraud
+9806.3,Major,Partnered,31,0,1,South,Not Fraud
+20157.66,Minor,Partnered,42,9,2,West,Not Fraud
+37669.11,Major,Non-Partnered,74,9,1,East,Not Fraud
+17923.31,Major,Non-Partnered,32,1,4,East,Fraud
+29438.19,None,Partnered,59,8,2,South,Not Fraud
+32746.34,None,Non-Partnered,34,12,2,North,Not Fraud
+15730.7,Minor,Partnered,9,15,2,South,Not Fraud
+24404.75,None,Partnered,81,17,1,South,Not Fraud
+-7412.67,Major,Non-Partnered,11,18,3,South,Not Fraud
+14756.12,Major,Non-Partnered,96,11,4,South,Not Fraud
+22474.32,None,Partnered,10,7,2,West,Not Fraud
+12522.17,None,Partnered,86,16,3,West,Not Fraud
+41324.11,Minor,Partnered,17,14,4,North,Not Fraud
+10698.59,None,Non-Partnered,68,9,4,South,Not Fraud
+20599.56,Major,Non-Partnered,48,14,2,West,Not Fraud
+26307.41,None,Non-Partnered,52,14,2,North,Not Fraud
+39412.73,Minor,Non-Partnered,111,6,1,South,Not Fraud
+10641.38,None,Partnered,25,12,3,East,Fraud
+36631.64,Minor,Partnered,21,16,3,West,Not Fraud
+25102.33,None,Partnered,101,8,2,North,Not Fraud
+15184.91,Minor,Partnered,102,7,4,East,Not Fraud
+29621.03,None,Partnered,113,19,2,South,Fraud
+26990.6,Minor,Partnered,65,17,4,South,Fraud
+18997.83,Major,Non-Partnered,63,12,4,South,Not Fraud
+25698.02,None,Non-Partnered,89,15,2,West,Not Fraud
+21146.86,None,Partnered,51,8,0,North,Not Fraud
+26135.17,None,Partnered,36,11,3,East,Not Fraud
+31621.31,Minor,Non-Partnered,81,11,4,North,Not Fraud
+40860.17,Minor,Non-Partnered,105,5,4,West,Fraud
+12621.85,Minor,Non-Partnered,88,18,0,North,Not Fraud
+46330.33,None,Non-Partnered,66,6,1,West,Not Fraud
+5479.12,None,Partnered,104,2,0,South,Not Fraud
+23482.15,Minor,Partnered,15,15,0,East,Not Fraud
+30883.17,None,Partnered,96,17,4,South,Not Fraud
+27809.92,Major,Partnered,39,15,3,North,Not Fraud
+18773,None,Partnered,70,6,0,South,Fraud
+22918.78,Minor,Non-Partnered,1,3,1,East,Fraud
+20069.99,None,Partnered,111,7,2,South,Not Fraud
+19106.35,None,Non-Partnered,23,12,0,East,Not Fraud
+33496.02,Minor,Partnered,39,12,0,East,Not Fraud
+28570.15,Minor,Partnered,57,16,1,South,Not Fraud
+18070.9,Major,Partnered,81,16,3,West,Not Fraud
+33996,None,Partnered,34,4,0,North,Not Fraud
+28073,None,Partnered,41,5,0,West,Fraud
+33128.62,Minor,Non-Partnered,93,18,3,West,Not Fraud
+31296.29,Minor,Non-Partnered,73,12,1,South,Not Fraud
+16710.05,None,Non-Partnered,13,13,0,North,Not Fraud
+19398.19,None,Partnered,70,3,3,North,Not Fraud
+32472.94,None,Partnered,6,6,0,West,Not Fraud
+31103.7,Major,Non-Partnered,84,7,2,South,Not Fraud
+24790.98,None,Partnered,52,12,4,North,Not Fraud
+26173.27,None,Partnered,117,5,2,West,Not Fraud
+37776.65,None,Non-Partnered,3,5,0,North,Not Fraud
+19084.29,None,Partnered,81,2,1,South,Not Fraud
+30470.97,None,Non-Partnered,63,2,4,South,Not Fraud
+22978.07,Minor,Partnered,49,12,2,South,Not Fraud
+22823.19,None,Non-Partnered,76,1,3,North,Not Fraud
+35987.77,Major,Partnered,112,15,1,East,Not Fraud
+33254.16,None,Partnered,47,5,2,North,Not Fraud
+33135.1,Minor,Non-Partnered,109,7,3,East,Fraud
+38054.79,Major,Partnered,55,7,0,South,Not Fraud
+25210.04,Minor,Partnered,64,5,3,West,Not Fraud
+31819.53,Minor,Non-Partnered,65,13,2,East,Fraud
+21897.33,None,Partnered,81,2,2,South,Not Fraud
+28241.66,None,Non-Partnered,67,9,0,South,Not Fraud
+23698.57,Minor,Partnered,90,2,3,East,Not Fraud
+25969.96,Major,Partnered,15,11,3,West,Fraud
+30951.57,Minor,Partnered,100,16,0,South,Fraud
+16817.79,Minor,Partnered,32,4,3,East,Not Fraud
+45923.87,Minor,Non-Partnered,96,19,0,West,Not Fraud
+14939.83,None,Partnered,68,8,1,West,Not Fraud
+12858.11,None,Non-Partnered,18,19,2,South,Fraud
+36581.11,Minor,Partnered,113,6,1,North,Fraud
+32916.63,Major,Partnered,83,3,4,North,Not Fraud
+31241.2,None,Partnered,43,12,4,South,Not Fraud
+31283.46,Minor,Partnered,116,12,4,West,Not Fraud
+24877.53,None,Non-Partnered,35,9,0,South,Not Fraud
+16027.46,Minor,Non-Partnered,104,17,3,East,Not Fraud
+25758.05,None,Non-Partnered,78,16,1,North,Not Fraud
+18228.38,None,Non-Partnered,58,19,1,East,Not Fraud
+34751.2,Minor,Partnered,33,19,1,South,Not Fraud
+23529.43,None,Non-Partnered,14,12,1,South,Fraud
+16745.03,Minor,Non-Partnered,34,16,4,West,Not Fraud
+21786.14,Minor,Partnered,61,3,1,West,Not Fraud
+29129.31,Major,Partnered,119,0,3,West,Not Fraud
+19362.75,None,Partnered,4,0,4,East,Fraud
+16777.8,None,Partnered,88,14,1,West,Not Fraud
+27436.87,None,Non-Partnered,59,12,0,South,Not Fraud
+27449.67,Major,Non-Partnered,29,16,2,West,Not Fraud
+19930.57,Major,Partnered,83,7,2,North,Not Fraud
+20289.62,Minor,Partnered,6,17,2,West,Not Fraud
+27320.5,Major,Partnered,97,12,4,East,Not Fraud
+10519.16,Minor,Non-Partnered,49,13,1,North,Fraud
+10925.36,Minor,Non-Partnered,40,7,4,North,Not Fraud
+17815.56,None,Partnered,83,7,3,North,Not Fraud
+22865.53,Minor,Partnered,117,14,0,East,Not Fraud
+28109.08,None,Non-Partnered,65,12,0,South,Not Fraud
+39753.56,Major,Partnered,69,6,2,West,Not Fraud
+33576.6,Minor,Partnered,27,4,2,North,Not Fraud
+23400.61,Minor,Non-Partnered,80,16,2,North,Not Fraud
+24809.84,None,Partnered,6,15,1,North,Not Fraud
+14974.71,None,Non-Partnered,104,1,3,South,Not Fraud
+24814.87,None,Partnered,13,17,3,South,Not Fraud
+22113.41,None,Partnered,112,16,3,East,Not Fraud
+28227.19,None,Non-Partnered,64,6,3,South,Fraud
+16727.69,Major,Non-Partnered,62,12,2,West,Not Fraud
+30193.47,Minor,Partnered,99,17,0,East,Not Fraud
+40327.39,None,Non-Partnered,19,13,2,East,Not Fraud
+23912.4,None,Partnered,76,17,3,West,Not Fraud
+29017.12,None,Partnered,80,12,2,West,Not Fraud
+31901.44,Minor,Non-Partnered,43,10,3,West,Not Fraud
+20987.8,Minor,Partnered,74,15,4,East,Not Fraud
+27240.92,Major,Partnered,89,16,0,East,Not Fraud
+25125.92,None,Non-Partnered,20,7,4,East,Not Fraud
+25976.76,Major,Non-Partnered,95,18,1,West,Not Fraud
+17269.9,Major,Partnered,68,19,2,West,Not Fraud
+25245.1,None,Non-Partnered,44,14,1,North,Not Fraud
+29979.98,Major,Non-Partnered,23,8,2,South,Not Fraud
+39511.44,None,Non-Partnered,2,19,4,North,Not Fraud
+34592.71,Major,Non-Partnered,22,9,3,West,Not Fraud
+46531.82,None,Partnered,115,11,3,East,Not Fraud
+17326.52,Major,Partnered,57,19,2,West,Not Fraud
+33723.21,Major,Partnered,101,0,3,South,Not Fraud
+26833.42,Major,Non-Partnered,72,19,4,North,Not Fraud
+46898.03,Minor,Non-Partnered,7,8,3,North,Not Fraud
+16917.02,None,Non-Partnered,78,14,4,East,Fraud
+16602.78,None,Non-Partnered,56,0,1,North,Not Fraud
+19006.07,None,Non-Partnered,119,11,4,North,Not Fraud
+3761.04,None,Non-Partnered,67,2,0,West,Not Fraud
+19742.45,Minor,Non-Partnered,114,10,0,North,Not Fraud
+17408.67,None,Partnered,16,1,0,North,Not Fraud
+26503.94,Major,Partnered,119,15,2,North,Not Fraud
+28417.56,Minor,Non-Partnered,83,8,2,East,Not Fraud
+43761.71,Major,Non-Partnered,51,14,2,East,Not Fraud
+34504.24,None,Non-Partnered,82,11,4,West,Not Fraud
+19230.96,Major,Partnered,116,0,2,North,Not Fraud
+16015.85,Major,Partnered,80,12,1,East,Not Fraud
+29919.19,None,Non-Partnered,72,13,0,East,Not Fraud
+11797.67,Minor,Non-Partnered,97,7,4,West,Not Fraud
+43314.59,Minor,Partnered,113,7,0,South,Not Fraud
+36794.4,None,Partnered,12,11,2,North,Not Fraud
+20308.24,Minor,Partnered,53,0,4,East,Not Fraud
+7868.65,None,Partnered,75,10,3,West,Not Fraud
+38538.72,None,Non-Partnered,5,7,1,West,Not Fraud
+23854.6,None,Partnered,27,9,2,West,Not Fraud
+37378.16,None,Partnered,12,18,2,East,Not Fraud
+9055.72,None,Non-Partnered,17,10,1,North,Not Fraud
+19006.25,None,Partnered,6,6,1,South,Not Fraud
+25052.44,Major,Partnered,97,10,3,North,Not Fraud
+25469.81,Minor,Partnered,5,16,2,West,Not Fraud
+20499.35,Major,Non-Partnered,57,0,2,West,Not Fraud
+31228.5,None,Partnered,28,7,0,South,Not Fraud
+14323.8,None,Non-Partnered,78,5,4,North,Not Fraud
+23576.21,Minor,Non-Partnered,69,17,4,West,Not Fraud
+26202.96,None,Partnered,118,5,0,West,Not Fraud
+30144.39,None,Partnered,59,4,4,North,Not Fraud
+32116.15,Minor,Partnered,33,12,1,West,Not Fraud
+13753.58,None,Partnered,62,18,4,North,Fraud
+9658.86,Minor,Non-Partnered,50,7,4,West,Not Fraud
+37776.77,Minor,Partnered,112,8,0,North,Not Fraud
+28323.14,None,Partnered,105,16,3,South,Not Fraud
+17515.13,None,Partnered,19,2,4,West,Fraud
+40511.52,Minor,Non-Partnered,86,18,4,South,Not Fraud
+26156.75,None,Partnered,69,10,3,West,Not Fraud
+36792.97,None,Partnered,66,16,0,West,Not Fraud
+25675.18,Major,Non-Partnered,94,18,3,East,Not Fraud
+45607.48,None,Non-Partnered,47,1,0,North,Not Fraud
+42553.41,Minor,Partnered,39,7,1,South,Not Fraud
+22510.36,Major,Partnered,68,18,0,South,Not Fraud
+34715.71,None,Partnered,33,6,1,South,Not Fraud
+31453.76,None,Partnered,13,16,1,North,Fraud
+38686.32,None,Partnered,84,5,0,East,Not Fraud
+15350.77,None,Non-Partnered,54,18,2,South,Fraud
+31860.51,None,Non-Partnered,7,5,0,North,Not Fraud
+35584.24,Minor,Partnered,79,1,4,West,Not Fraud
+7412.61,None,Partnered,87,5,4,South,Not Fraud
+13167.41,Minor,Non-Partnered,14,4,2,South,Not Fraud
+4607.68,Major,Partnered,87,18,1,East,Not Fraud
+22305.93,Major,Partnered,19,19,2,South,Not Fraud
+32175.42,Minor,Partnered,54,3,4,South,Not Fraud
+40023.57,None,Partnered,93,16,2,West,Not Fraud
+25740.95,Minor,Partnered,20,10,0,North,Not Fraud
+41286.16,Minor,Non-Partnered,29,3,2,North,Not Fraud
+11198.99,None,Partnered,24,12,1,East,Not Fraud
+7966.18,None,Partnered,82,19,0,West,Not Fraud
+24444.52,Major,Partnered,63,16,3,North,Fraud
+28840.65,None,Non-Partnered,74,8,4,West,Not Fraud
+24673.05,None,Non-Partnered,105,3,4,North,Not Fraud
+4325.58,None,Non-Partnered,57,13,2,West,Not Fraud
+24108.8,None,Non-Partnered,8,18,0,East,Not Fraud
+11955.3,Major,Partnered,90,2,3,South,Fraud
+31696.73,Minor,Non-Partnered,62,13,0,East,Not Fraud
+28665.98,Minor,Partnered,29,7,4,North,Not Fraud
+15601.2,None,Partnered,74,0,0,East,Not Fraud
+19861.33,None,Non-Partnered,17,9,3,South,Not Fraud
+14407.86,None,Non-Partnered,66,17,2,East,Fraud
+24373.21,None,Non-Partnered,6,15,1,North,Not Fraud
+34551.42,None,Non-Partnered,58,7,0,North,Not Fraud
+15142.74,Minor,Non-Partnered,69,0,1,East,Not Fraud
+30040.47,None,Partnered,28,11,4,South,Not Fraud
+19697.42,Minor,Non-Partnered,62,7,2,East,Not Fraud
+17071.27,None,Non-Partnered,41,15,2,South,Not Fraud
+23929.7,None,Non-Partnered,69,17,0,West,Not Fraud
+14647.58,None,Partnered,82,3,2,South,Not Fraud
+19463.51,Major,Non-Partnered,90,5,0,West,Not Fraud
+13021.22,Major,Partnered,84,11,0,East,Not Fraud
+44647.25,Major,Non-Partnered,41,8,1,South,Not Fraud
+25352.64,None,Non-Partnered,49,14,2,West,Fraud
+18002.74,None,Partnered,91,15,0,West,Not Fraud
+27139.8,Minor,Non-Partnered,49,11,1,West,Not Fraud
+23876.72,None,Partnered,76,13,3,North,Not Fraud
+22790.3,Major,Partnered,71,12,1,East,Not Fraud
+31141.67,None,Partnered,3,1,1,West,Not Fraud
+32575.08,None,Non-Partnered,10,2,0,South,Not Fraud
+19694.99,None,Non-Partnered,98,9,4,West,Not Fraud
+19241.82,None,Non-Partnered,89,8,4,North,Not Fraud
+22249.48,Minor,Partnered,35,19,4,East,Not Fraud
+1980.79,None,Non-Partnered,80,7,1,North,Not Fraud
+9848.09,None,Partnered,2,9,0,North,Fraud
+38668.74,None,Non-Partnered,24,18,2,North,Not Fraud
+41449.68,None,Partnered,74,2,1,South,Not Fraud
+22509.64,Minor,Partnered,38,4,1,East,Not Fraud
+30765.57,Major,Partnered,22,2,0,East,Not Fraud
+28112.5,Major,Non-Partnered,26,15,3,South,Not Fraud
+55788.81,Minor,Partnered,43,16,1,East,Not Fraud
+36195.75,None,Partnered,55,14,3,North,Not Fraud
+23720.82,Minor,Partnered,39,2,3,East,Not Fraud
+15444.6,None,Partnered,91,11,4,South,Not Fraud
+8935.54,None,Partnered,29,8,0,North,Not Fraud
+27034.64,Major,Partnered,111,11,3,South,Not Fraud
+17436.49,None,Non-Partnered,102,14,0,West,Not Fraud
+10777.46,Major,Non-Partnered,20,1,4,North,Not Fraud
+18534.27,None,Partnered,91,17,0,North,Not Fraud
+14184.52,Minor,Non-Partnered,41,19,1,East,Not Fraud
+41871.42,Minor,Non-Partnered,54,11,3,North,Not Fraud
+33816.4,Major,Partnered,20,3,0,South,Fraud
+24920.27,Minor,Partnered,108,15,2,East,Not Fraud
+39799.44,Minor,Partnered,19,15,0,West,Not Fraud
+25773.68,None,Non-Partnered,84,0,3,South,Not Fraud
+16387.16,Minor,Partnered,99,1,4,West,Not Fraud
+40231.24,None,Non-Partnered,111,2,4,West,Fraud
+30389.1,Minor,Partnered,66,19,3,West,Not Fraud
+14627.54,Minor,Non-Partnered,30,16,1,North,Fraud
+23096.61,Minor,Partnered,53,19,1,South,Not Fraud
+16243.82,None,Partnered,34,0,4,South,Not Fraud
+11172,None,Non-Partnered,22,19,4,North,Not Fraud
+34261.78,Minor,Non-Partnered,67,5,3,East,Not Fraud
+44094.17,None,Non-Partnered,6,14,1,West,Not Fraud
+11014.32,None,Non-Partnered,79,13,4,South,Not Fraud
+30629.69,None,Non-Partnered,27,19,1,North,Fraud
+18493.57,Major,Non-Partnered,10,14,4,West,Not Fraud
+20128.75,Minor,Partnered,73,13,0,East,Not Fraud
+19076.06,None,Non-Partnered,97,4,2,East,Not Fraud
+16360.09,None,Partnered,96,5,0,West,Not Fraud
+25485.22,None,Partnered,48,16,4,East,Not Fraud
+16690.5,Minor,Non-Partnered,70,10,2,South,Not Fraud
+27704.57,Minor,Partnered,105,15,2,South,Fraud
+24497.62,None,Non-Partnered,59,11,4,South,Not Fraud
+22610.52,None,Non-Partnered,100,14,4,East,Not Fraud
+15924.36,None,Partnered,59,3,1,South,Not Fraud
+19232.29,Minor,Partnered,2,17,4,North,Not Fraud
+32553.91,Minor,Non-Partnered,29,2,3,South,Fraud
+30009.17,None,Non-Partnered,68,7,4,South,Not Fraud
+15224.45,None,Partnered,65,2,3,East,Not Fraud
+25993.32,None,Partnered,83,7,4,South,Not Fraud
+32513.87,Major,Partnered,26,17,1,West,Not Fraud
+8305.95,None,Partnered,89,9,3,North,Not Fraud
+30433.6,Minor,Non-Partnered,10,19,0,East,Not Fraud
+18373.76,Minor,Non-Partnered,53,16,3,North,Not Fraud
+30705.99,None,Non-Partnered,79,7,1,West,Not Fraud
+17367.41,None,Non-Partnered,59,10,3,East,Not Fraud
+6951.18,None,Partnered,22,4,4,East,Not Fraud
+8724.58,Minor,Partnered,51,12,4,South,Not Fraud
+25480.85,Minor,Non-Partnered,48,4,1,North,Not Fraud
+27597.23,Minor,Non-Partnered,21,12,2,West,Not Fraud
+15956.83,Minor,Non-Partnered,22,5,4,West,Not Fraud
+31385.92,None,Non-Partnered,100,4,0,East,Not Fraud
+8384.8,Major,Non-Partnered,98,8,1,South,Not Fraud
+24339.2,Minor,Non-Partnered,30,15,3,East,Not Fraud
+12889.84,None,Non-Partnered,25,1,3,East,Fraud
+18481.64,Major,Non-Partnered,109,0,0,East,Not Fraud
+25473.99,Minor,Non-Partnered,28,7,4,East,Not Fraud
+16395.87,Minor,Partnered,65,18,1,West,Not Fraud
+21154.44,Minor,Non-Partnered,113,10,0,West,Not Fraud
+35062.93,Major,Partnered,45,11,4,East,Not Fraud
+19231.08,Minor,Partnered,68,11,1,East,Not Fraud
+33356.92,None,Non-Partnered,7,6,3,South,Fraud
+13702.93,None,Non-Partnered,49,12,1,East,Not Fraud
+30298.04,Major,Partnered,9,7,2,West,Not Fraud
+39415.69,None,Partnered,36,8,1,North,Not Fraud
+283.55,None,Non-Partnered,83,6,2,West,Not Fraud
+17031.05,None,Partnered,1,14,1,South,Not Fraud
+30770.72,None,Non-Partnered,10,1,2,West,Not Fraud
+22969.55,Minor,Non-Partnered,36,19,3,North,Not Fraud
+28711.46,Major,Non-Partnered,73,11,4,East,Not Fraud
+18960.15,None,Partnered,109,0,2,North,Not Fraud
+25865.9,None,Partnered,46,7,2,East,Not Fraud
+23443.23,None,Non-Partnered,106,4,3,East,Not Fraud
+36677.82,Major,Partnered,32,14,2,West,Not Fraud
+27544.21,Minor,Partnered,32,0,0,West,Not Fraud
+28376.03,None,Partnered,6,0,3,West,Not Fraud
+20881.23,Major,Partnered,48,9,0,South,Not Fraud
+20123.94,Major,Partnered,38,9,3,West,Not Fraud
+20674.42,Major,Partnered,17,14,2,South,Not Fraud
+28944.52,Major,Partnered,74,16,0,West,Not Fraud
+20790.16,None,Non-Partnered,114,5,2,East,Not Fraud
+27897.75,Minor,Partnered,27,2,3,South,Not Fraud
+45754.01,None,Partnered,54,12,2,North,Not Fraud
+33711.25,Major,Partnered,50,15,0,South,Not Fraud
+21739.76,Minor,Partnered,35,7,0,South,Not Fraud
+37012.14,Minor,Partnered,116,14,2,North,Not Fraud
+20919.25,Minor,Partnered,85,16,1,South,Not Fraud
+4618.75,None,Partnered,25,16,3,East,Not Fraud
+14919.14,Minor,Partnered,28,12,3,West,Not Fraud
+6292.08,Major,Non-Partnered,111,16,2,North,Not Fraud
+21484.87,Major,Partnered,15,5,1,West,Not Fraud
+25184.18,None,Partnered,4,16,0,East,Not Fraud
+41764.37,None,Partnered,93,15,4,North,Not Fraud
+28269.27,None,Partnered,73,13,4,West,Not Fraud
+22808.99,Minor,Non-Partnered,27,12,2,West,Not Fraud
+33294.06,Major,Non-Partnered,26,5,1,East,Not Fraud
+2888.65,None,Non-Partnered,19,2,1,West,Not Fraud
+27356.15,Minor,Non-Partnered,92,13,3,East,Not Fraud
+32708.65,Major,Non-Partnered,17,13,0,South,Fraud
+10214.14,Minor,Non-Partnered,43,14,1,East,Not Fraud
+36437.54,Minor,Non-Partnered,41,7,4,South,Fraud
+28384.96,Minor,Non-Partnered,42,14,0,North,Not Fraud
+20847.12,Minor,Non-Partnered,50,12,0,West,Not Fraud
+31327.82,None,Non-Partnered,84,16,2,East,Not Fraud
+47706.93,Minor,Non-Partnered,109,2,1,East,Not Fraud
+26818.66,Minor,Non-Partnered,40,5,2,West,Not Fraud
+27482.21,Major,Non-Partnered,39,4,1,West,Not Fraud
+20406.39,Minor,Non-Partnered,113,16,3,North,Not Fraud
+16501.56,Minor,Non-Partnered,117,1,2,North,Not Fraud
+33303.36,None,Non-Partnered,23,14,2,East,Not Fraud
+16439.16,None,Partnered,111,4,4,North,Not Fraud
+25715.66,None,Non-Partnered,96,19,2,South,Not Fraud
+20223.43,None,Partnered,52,5,1,North,Not Fraud
+29789.8,Minor,Non-Partnered,47,5,4,North,Not Fraud
+28336.62,Major,Non-Partnered,63,17,2,East,Not Fraud
+35375.4,None,Partnered,97,17,2,South,Not Fraud
+19899.84,None,Non-Partnered,110,3,3,North,Not Fraud
+22301.25,Major,Partnered,69,16,2,South,Not Fraud
+15212.36,None,Partnered,43,13,0,South,Not Fraud
+20557.07,Minor,Partnered,48,13,4,South,Fraud
+28773,Minor,Non-Partnered,34,12,0,West,Not Fraud
+32569.89,Minor,Non-Partnered,40,6,4,West,Not Fraud
+15778.35,None,Non-Partnered,75,11,3,West,Not Fraud
+33696.06,None,Partnered,61,14,2,West,Not Fraud
+38556.38,Minor,Partnered,50,18,2,East,Not Fraud
+29134.35,Minor,Non-Partnered,67,10,2,North,Not Fraud
+43767.96,None,Non-Partnered,62,14,4,West,Not Fraud
+17262.11,Minor,Non-Partnered,58,11,2,East,Not Fraud
+12553.45,None,Non-Partnered,33,2,0,North,Not Fraud
+7212.8,Minor,Non-Partnered,75,16,2,West,Not Fraud
+39960.44,None,Partnered,16,2,3,North,Fraud
+31543.66,Major,Partnered,82,18,0,West,Not Fraud
+24444.15,None,Partnered,94,19,2,East,Not Fraud
+27799.69,None,Non-Partnered,48,3,2,South,Not Fraud
+13745.11,None,Partnered,119,2,1,South,Not Fraud
+49457.52,None,Partnered,10,15,4,North,Not Fraud
+26292.21,Major,Partnered,82,11,0,East,Not Fraud
+26093.95,Major,Partnered,38,7,1,South,Not Fraud
+32257.67,None,Partnered,19,16,3,West,Not Fraud
+29810.09,None,Non-Partnered,36,6,4,South,Not Fraud
+27238.84,Minor,Partnered,59,10,0,North,Not Fraud
+17095.26,Major,Non-Partnered,63,17,2,North,Not Fraud
+29714.68,Minor,Non-Partnered,77,0,0,East,Not Fraud
+43820.24,None,Non-Partnered,46,2,2,North,Not Fraud
+38454.2,None,Non-Partnered,3,3,4,South,Not Fraud
+40931.87,Minor,Non-Partnered,74,12,2,South,Not Fraud
+19887.84,None,Partnered,102,5,3,South,Not Fraud
+15103.95,Minor,Partnered,65,13,2,South,Not Fraud
+23742.13,None,Non-Partnered,119,4,3,East,Not Fraud
+25557.25,Minor,Non-Partnered,91,15,4,West,Not Fraud
+35941.92,None,Non-Partnered,110,14,4,West,Not Fraud
+8075.35,Minor,Partnered,8,14,0,East,Not Fraud
+40295.5,None,Non-Partnered,51,3,3,North,Fraud
+23419.92,Minor,Partnered,110,7,3,West,Not Fraud
+20731.19,None,Non-Partnered,106,15,1,North,Not Fraud
+14878.96,Minor,Partnered,81,15,1,West,Not Fraud
+8451.43,Minor,Non-Partnered,73,3,1,North,Not Fraud
+33231.71,Minor,Partnered,6,12,2,East,Not Fraud
+25733.18,Minor,Non-Partnered,107,12,1,South,Fraud
+12100.39,Minor,Partnered,89,1,3,North,Fraud
+12049.21,Major,Partnered,39,2,2,South,Not Fraud
+21642.15,None,Partnered,113,7,4,North,Fraud
+41690.22,Major,Partnered,60,14,0,North,Not Fraud
+22404.09,None,Partnered,28,10,1,North,Not Fraud
+9968.57,None,Partnered,97,8,4,North,Not Fraud
+22542.57,None,Partnered,54,6,3,North,Not Fraud
+22272.76,None,Non-Partnered,37,12,0,South,Fraud
+-1968.87,Minor,Non-Partnered,9,1,4,North,Not Fraud
+24457.05,Minor,Non-Partnered,82,7,0,South,Not Fraud
+22690.65,Minor,Non-Partnered,56,6,1,East,Not Fraud
+31962.06,Minor,Non-Partnered,59,11,3,West,Not Fraud
+43489.56,None,Partnered,85,18,0,North,Not Fraud
+36265.65,None,Partnered,2,6,4,West,Fraud
+22311.11,None,Partnered,61,9,1,South,Not Fraud
+13934.74,None,Partnered,58,15,1,East,Not Fraud
+50733.6,None,Partnered,107,2,4,East,Not Fraud
+25592.18,None,Non-Partnered,60,9,4,East,Not Fraud
+25139.29,Minor,Non-Partnered,102,5,0,West,Not Fraud
+24758.75,Minor,Non-Partnered,40,17,2,South,Not Fraud
+26980.85,Major,Non-Partnered,36,17,1,North,Not Fraud
+23556.4,Major,Partnered,114,4,0,North,Not Fraud
+19263.38,Minor,Partnered,107,6,4,South,Not Fraud
+19531.41,None,Partnered,37,1,0,West,Not Fraud
+24672.47,Minor,Non-Partnered,79,10,4,North,Not Fraud
+19565.75,Minor,Partnered,92,12,3,South,Not Fraud
+17871.54,None,Non-Partnered,18,4,4,North,Not Fraud
+26064.3,None,Partnered,98,5,4,East,Fraud
+22450.23,Major,Partnered,63,13,4,North,Not Fraud
+40039.93,None,Non-Partnered,22,11,2,West,Not Fraud
+-1509.7,Minor,Partnered,11,3,4,South,Not Fraud
+35915.07,Minor,Partnered,58,5,1,West,Not Fraud
+37460.85,None,Non-Partnered,57,9,1,South,Not Fraud
+4266.1,None,Partnered,77,17,0,East,Not Fraud
+21573.12,None,Non-Partnered,4,14,2,South,Not Fraud
+21285.59,None,Partnered,86,7,0,North,Not Fraud
+10924.88,None,Partnered,7,8,1,North,Not Fraud
+17221.83,Major,Partnered,61,4,1,East,Not Fraud
+13894.24,None,Partnered,107,9,3,South,Not Fraud
+42522.7,Minor,Partnered,54,19,4,East,Fraud
+34356.78,None,Partnered,88,5,1,North,Not Fraud
+37715.55,Major,Partnered,68,15,0,West,Not Fraud
+32216.72,None,Partnered,92,2,0,East,Not Fraud
+13709.48,None,Non-Partnered,79,9,4,West,Not Fraud
+19754.8,Major,Non-Partnered,1,10,4,West,Not Fraud
+29893.75,Major,Partnered,55,10,3,South,Not Fraud
+12778.72,None,Partnered,3,16,2,East,Not Fraud
+32129.98,Major,Non-Partnered,78,3,0,West,Not Fraud
+22596.75,None,Partnered,38,3,4,West,Not Fraud
+21251.79,None,Partnered,114,16,0,South,Not Fraud
+32109.6,None,Non-Partnered,1,8,4,South,Not Fraud
+29442.63,None,Partnered,102,18,1,North,Not Fraud
+21390.34,Minor,Partnered,38,4,0,West,Not Fraud
+36593.3,None,Non-Partnered,85,5,1,North,Not Fraud
+14189.37,None,Partnered,112,2,0,West,Not Fraud
+31159.36,Minor,Partnered,29,0,2,North,Not Fraud
+30931.01,Minor,Non-Partnered,5,19,3,South,Not Fraud
+21904.54,None,Partnered,113,15,1,East,Fraud
+28261.33,Minor,Non-Partnered,74,10,4,South,Not Fraud
+12488.86,None,Partnered,92,12,2,North,Not Fraud
+34240.27,Minor,Partnered,21,9,0,North,Not Fraud
+23150.98,Minor,Non-Partnered,114,2,1,East,Not Fraud
+19772.77,Major,Non-Partnered,71,8,0,West,Not Fraud
+35490.09,None,Partnered,67,11,0,North,Not Fraud
+17956.56,None,Non-Partnered,109,13,0,North,Not Fraud
+10915.39,None,Non-Partnered,47,0,3,North,Not Fraud
+9433.71,None,Partnered,84,17,3,East,Not Fraud
+31060.1,None,Partnered,83,16,4,South,Not Fraud
+12195.71,Major,Partnered,35,8,1,North,Not Fraud
+42547.94,None,Non-Partnered,68,8,2,East,Not Fraud
+4180.71,None,Non-Partnered,69,9,2,North,Not Fraud
+41964.56,Minor,Non-Partnered,1,18,2,West,Not Fraud
+27110.17,None,Non-Partnered,68,14,0,East,Not Fraud
+24032.87,Minor,Partnered,12,4,3,North,Fraud
+19550.81,None,Non-Partnered,60,14,1,East,Not Fraud
+28991.36,None,Partnered,27,19,0,North,Not Fraud
+24623.65,None,Non-Partnered,56,1,3,South,Not Fraud
+36033.02,None,Partnered,106,12,3,North,Not Fraud
+26142.28,Major,Partnered,23,15,1,East,Not Fraud
+26503.02,None,Partnered,25,14,1,West,Not Fraud
+21363.88,Minor,Non-Partnered,21,9,1,West,Not Fraud
+24430.54,None,Partnered,61,13,0,West,Not Fraud
+28078.02,None,Partnered,63,9,4,North,Not Fraud
+7898.32,Major,Non-Partnered,52,13,1,South,Fraud
+11518.15,None,Partnered,88,8,4,North,Not Fraud
+32432.64,Minor,Non-Partnered,25,13,0,West,Not Fraud
+26708.65,Major,Non-Partnered,109,2,4,East,Not Fraud
+23160.17,Minor,Partnered,55,19,2,West,Not Fraud
+25184.34,Major,Partnered,46,15,4,East,Not Fraud
+28475.82,None,Non-Partnered,32,1,1,South,Not Fraud
+19602.4,None,Partnered,55,9,0,East,Not Fraud
+17216.95,None,Non-Partnered,96,2,1,North,Not Fraud
+26958.45,Minor,Non-Partnered,5,10,2,North,Fraud
+15216.27,Major,Non-Partnered,36,10,1,North,Not Fraud
+29082.53,None,Partnered,110,12,1,East,Not Fraud
+7974.16,Minor,Non-Partnered,106,6,1,North,Fraud
+35291.56,None,Partnered,49,16,3,North,Not Fraud
+29725.97,Minor,Partnered,106,1,2,North,Not Fraud
+27560.3,None,Partnered,58,11,1,South,Not Fraud
+34826.91,Major,Partnered,39,9,1,East,Not Fraud
+41654.74,Minor,Non-Partnered,80,17,1,East,Not Fraud
+35143.7,None,Partnered,97,10,0,West,Not Fraud
+6591.26,None,Non-Partnered,113,15,3,East,Not Fraud
+12204.23,None,Non-Partnered,85,16,0,South,Not Fraud
+18751.81,None,Partnered,61,18,3,East,Not Fraud
+25260.91,None,Non-Partnered,9,17,1,South,Not Fraud
+30176.59,Major,Non-Partnered,6,2,2,South,Not Fraud
+17742.56,Minor,Partnered,115,15,4,East,Not Fraud
+26867.67,Minor,Non-Partnered,109,5,4,West,Not Fraud
+17446.17,None,Non-Partnered,35,11,1,North,Not Fraud
+18884.82,Major,Non-Partnered,39,10,0,North,Not Fraud
+10933.39,Minor,Non-Partnered,22,14,2,East,Not Fraud
+15767.67,None,Partnered,41,14,3,East,Not Fraud
+11483.15,Minor,Non-Partnered,118,15,1,South,Not Fraud
+15241.27,Minor,Non-Partnered,5,9,2,East,Not Fraud
+35536.42,None,Non-Partnered,42,11,2,South,Not Fraud
+15506.01,None,Non-Partnered,87,12,3,West,Not Fraud
+51323.82,None,Partnered,81,3,2,East,Fraud
+29933.18,None,Non-Partnered,76,6,0,North,Not Fraud
+26848.36,Major,Partnered,87,1,0,North,Not Fraud
+16416.42,Major,Non-Partnered,80,14,0,East,Not Fraud
+32003.1,Minor,Partnered,67,7,2,South,Fraud
+19243.62,None,Partnered,30,6,0,North,Not Fraud
+26220.1,None,Partnered,57,14,3,South,Not Fraud
+50600.85,Minor,Partnered,86,13,2,East,Not Fraud
+24039.4,Minor,Partnered,73,7,4,East,Not Fraud
+36492.73,None,Non-Partnered,29,11,2,North,Not Fraud
+17968.24,Minor,Non-Partnered,111,12,3,East,Not Fraud
+24650.12,Major,Non-Partnered,37,10,4,West,Not Fraud
+42708.01,None,Partnered,87,16,2,West,Not Fraud
+18730.33,None,Non-Partnered,13,16,0,North,Fraud
+43124.49,Minor,Partnered,32,3,1,West,Not Fraud
+32077.52,None,Partnered,46,7,1,South,Not Fraud
+19375.33,None,Non-Partnered,116,4,0,North,Not Fraud
+31324.08,None,Non-Partnered,111,15,1,North,Not Fraud
+34725.54,None,Partnered,112,3,1,South,Not Fraud
+31218.1,Minor,Partnered,23,14,0,West,Not Fraud
+9297.75,Minor,Non-Partnered,45,11,0,West,Not Fraud
+17728.63,None,Non-Partnered,17,4,2,West,Not Fraud
+22524.81,Major,Non-Partnered,119,15,2,North,Not Fraud
+24255.67,Major,Non-Partnered,104,13,0,North,Not Fraud
+31206.72,Major,Partnered,85,9,3,West,Not Fraud
+26777.01,None,Non-Partnered,66,6,1,East,Not Fraud
+11646.56,None,Non-Partnered,101,12,2,West,Not Fraud
+28801.98,Major,Non-Partnered,6,19,1,South,Not Fraud
+31105.86,Minor,Partnered,108,4,4,North,Not Fraud
+30597.9,None,Partnered,18,2,0,South,Not Fraud
+35807.81,None,Partnered,94,14,3,South,Not Fraud
+33339.22,None,Partnered,22,3,4,North,Not Fraud
+29591.8,Major,Non-Partnered,118,14,4,East,Not Fraud
+24298.34,Minor,Partnered,33,13,4,West,Not Fraud
+8390.39,None,Non-Partnered,30,19,0,South,Not Fraud
+29296.18,None,Non-Partnered,81,18,2,North,Not Fraud
+27076.88,Minor,Non-Partnered,107,12,0,South,Fraud
+27715.79,Major,Non-Partnered,32,9,2,West,Not Fraud
+12232.51,None,Partnered,42,4,4,East,Not Fraud
+14189.43,Minor,Partnered,115,19,4,East,Fraud
+35531.53,Major,Partnered,78,19,3,East,Not Fraud
+24604.45,None,Non-Partnered,10,5,2,North,Not Fraud
+31815.01,Minor,Non-Partnered,111,3,4,North,Not Fraud
+25283.18,None,Non-Partnered,115,1,1,East,Not Fraud
+25297.56,Minor,Non-Partnered,36,15,3,West,Fraud
+34382.84,Minor,Non-Partnered,34,17,0,West,Not Fraud
+19839.55,Minor,Partnered,73,4,3,North,Not Fraud
+25961.21,Minor,Non-Partnered,106,3,1,East,Not Fraud
+20377.25,None,Partnered,28,12,2,West,Not Fraud
+20655.04,Major,Non-Partnered,11,18,0,West,Not Fraud
+21908.28,Minor,Non-Partnered,78,1,0,West,Not Fraud
+27221.34,None,Partnered,39,12,2,North,Not Fraud
+20212.51,Minor,Partnered,119,10,3,East,Not Fraud
+37557.56,Minor,Non-Partnered,47,3,4,South,Not Fraud
+16053.93,None,Non-Partnered,118,19,3,East,Not Fraud
+23131.28,Major,Non-Partnered,19,19,1,East,Not Fraud
+20602.69,Major,Non-Partnered,118,14,4,North,Not Fraud
+39469.78,None,Partnered,15,3,3,West,Not Fraud
+26965.55,Major,Non-Partnered,28,8,2,West,Not Fraud
+35318.45,None,Partnered,24,6,1,North,Not Fraud
+10144.4,None,Non-Partnered,72,18,1,North,Not Fraud
+27670.5,None,Partnered,107,18,1,North,Fraud
+33896.31,Major,Partnered,9,5,4,North,Not Fraud
+25822.84,Minor,Non-Partnered,47,5,0,North,Not Fraud
+35654.8,None,Partnered,33,19,4,South,Not Fraud
+19827.12,None,Non-Partnered,62,14,3,East,Fraud
+39093.47,Minor,Partnered,97,14,0,East,Not Fraud
+47988.98,None,Non-Partnered,19,19,3,East,Not Fraud
+21371.61,Major,Partnered,67,8,0,West,Not Fraud
+20544.97,Major,Non-Partnered,74,3,4,South,Not Fraud
+39533.84,Minor,Non-Partnered,40,17,1,East,Not Fraud
+40795.72,Major,Partnered,47,17,2,West,Not Fraud
+19771.4,None,Partnered,106,4,1,South,Not Fraud
+20798.13,Major,Partnered,65,19,4,South,Not Fraud
+22182.15,Minor,Partnered,29,10,0,West,Not Fraud
+11555.49,Minor,Non-Partnered,50,4,1,South,Not Fraud
+15813.48,None,Partnered,98,3,4,West,Not Fraud
+14958.59,Major,Non-Partnered,115,11,3,East,Not Fraud
+17322.02,None,Partnered,13,1,2,West,Not Fraud
+24653.15,None,Non-Partnered,118,12,1,South,Not Fraud
+27342.15,None,Non-Partnered,1,9,0,East,Not Fraud
+40505,Minor,Non-Partnered,34,8,3,East,Not Fraud
+15016.46,Minor,Non-Partnered,93,9,4,North,Not Fraud
+34843.22,Minor,Partnered,48,6,2,North,Not Fraud
+22860.11,Major,Partnered,111,3,0,South,Not Fraud
+24505.36,None,Non-Partnered,77,18,4,West,Not Fraud
+31748.19,Minor,Partnered,48,9,4,West,Not Fraud
+13772.78,None,Partnered,49,2,1,South,Not Fraud
+28824.1,Major,Non-Partnered,117,18,1,East,Fraud
+26664.52,Major,Partnered,64,1,0,South,Not Fraud
+29924.51,Minor,Partnered,61,19,4,South,Not Fraud
+27891.69,Minor,Partnered,29,9,1,East,Not Fraud
+49553,None,Non-Partnered,39,1,2,West,Not Fraud
+18622.6,None,Partnered,88,1,2,South,Not Fraud
+19690.03,Major,Non-Partnered,26,16,4,West,Not Fraud
+18768.59,None,Partnered,17,15,1,South,Not Fraud
+19445.23,None,Partnered,71,15,0,East,Not Fraud
+18626.13,None,Partnered,13,13,0,East,Not Fraud
+36890.17,Major,Non-Partnered,69,6,0,North,Not Fraud
+39205.04,None,Non-Partnered,26,10,2,East,Fraud
+19292.54,None,Partnered,49,0,1,North,Not Fraud
+16676.44,Minor,Non-Partnered,67,10,1,South,Not Fraud
+29714.16,Major,Partnered,7,3,2,West,Not Fraud
+19477.77,None,Non-Partnered,58,6,0,East,Not Fraud
+31329.32,None,Non-Partnered,49,14,0,East,Not Fraud
+27029.23,None,Partnered,103,17,4,East,Not Fraud
+9842.56,None,Partnered,53,11,3,South,Not Fraud
+40475.05,None,Partnered,65,16,1,North,Not Fraud
+42958.78,Minor,Partnered,113,0,1,South,Not Fraud
+18872.11,Minor,Non-Partnered,62,10,1,West,Not Fraud
+21122.98,Minor,Non-Partnered,17,0,3,South,Not Fraud
+27858.65,None,Non-Partnered,43,14,4,West,Not Fraud
+28344.57,Major,Partnered,25,9,3,East,Not Fraud
+31585.44,None,Partnered,3,6,0,West,Not Fraud
+45102.05,Major,Non-Partnered,79,1,0,West,Not Fraud
+23230.53,Minor,Partnered,29,9,1,North,Not Fraud
+17017.03,None,Non-Partnered,117,3,2,West,Not Fraud
+11206.81,Minor,Non-Partnered,107,11,1,West,Not Fraud
+17690.7,None,Non-Partnered,32,18,2,South,Not Fraud
+24668.73,Minor,Non-Partnered,26,10,3,East,Not Fraud
+42945.58,None,Non-Partnered,16,7,0,South,Fraud
+19823.89,None,Partnered,25,17,2,South,Not Fraud
+27237.88,Major,Partnered,54,10,3,East,Not Fraud
+24835.77,None,Partnered,28,10,0,East,Not Fraud
+36883.93,Major,Non-Partnered,73,12,2,West,Not Fraud
+50269.32,None,Non-Partnered,56,2,1,West,Not Fraud
+19691.31,Minor,Non-Partnered,65,11,1,North,Not Fraud
+20105.61,Minor,Non-Partnered,93,2,1,South,Fraud
+35441.61,Minor,Partnered,86,9,3,East,Fraud
+31818.91,None,Partnered,80,16,1,West,Not Fraud
+43467.07,None,Non-Partnered,41,1,4,East,Not Fraud
+30839.28,None,Non-Partnered,115,16,0,West,Fraud
+21407.08,None,Non-Partnered,108,15,3,North,Not Fraud
+30906.55,Minor,Partnered,51,1,1,North,Not Fraud
+36087.04,Major,Partnered,118,19,0,East,Not Fraud
+33204.82,Major,Partnered,105,5,2,North,Not Fraud
+30072.74,Minor,Non-Partnered,71,9,1,East,Not Fraud
+35666.75,Minor,Non-Partnered,78,9,0,West,Not Fraud
+36692.96,Minor,Partnered,29,7,4,South,Not Fraud
+38821.59,None,Non-Partnered,83,0,2,North,Not Fraud
+31487.1,Major,Partnered,19,12,4,West,Not Fraud
+23328.82,Minor,Non-Partnered,66,8,0,South,Not Fraud
+26467.14,Minor,Partnered,41,9,4,South,Not Fraud
+37065.09,None,Non-Partnered,45,14,0,South,Not Fraud
+16830.64,None,Partnered,15,4,0,West,Not Fraud
+28686.73,None,Partnered,3,15,4,West,Fraud
+21066.61,Major,Partnered,11,12,0,East,Fraud
+25287.45,Minor,Partnered,53,19,1,South,Not Fraud
+37784.52,None,Partnered,46,17,0,South,Not Fraud
+26910.99,Major,Partnered,30,10,3,South,Not Fraud
+25464.37,None,Non-Partnered,57,8,0,East,Not Fraud
+11401.44,None,Non-Partnered,104,15,3,South,Fraud
+32462.54,None,Non-Partnered,18,1,0,West,Not Fraud
+31454.84,Minor,Partnered,51,1,0,South,Not Fraud
+46632.55,Major,Partnered,48,11,4,North,Not Fraud
+21922.22,None,Non-Partnered,66,7,1,West,Not Fraud
+27191.5,Major,Partnered,96,8,1,East,Not Fraud
+27493.84,None,Partnered,8,11,2,South,Not Fraud
+40774.53,Major,Partnered,22,8,4,North,Not Fraud
+24047.04,Minor,Partnered,6,9,4,East,Not Fraud
+27790.22,Major,Partnered,76,1,1,East,Not Fraud
+31078.97,None,Non-Partnered,111,15,4,West,Not Fraud
+26866.09,Major,Non-Partnered,57,19,1,East,Not Fraud
+20535.66,Minor,Non-Partnered,104,6,4,East,Not Fraud
+26940.9,None,Non-Partnered,36,1,0,East,Not Fraud
+35736.32,Major,Non-Partnered,79,0,1,East,Not Fraud
+14734.85,None,Partnered,92,18,1,South,Not Fraud
+26329.7,Major,Partnered,116,3,3,South,Fraud
+17998.79,None,Partnered,57,1,4,South,Not Fraud
+36950.47,Minor,Partnered,49,13,4,South,Not Fraud
+9768.13,Minor,Non-Partnered,45,1,1,North,Not Fraud
+19410.78,None,Non-Partnered,82,14,0,South,Not Fraud
+28772.12,None,Non-Partnered,66,11,0,East,Not Fraud
+40655.24,None,Partnered,77,4,0,South,Not Fraud
+24342.5,None,Non-Partnered,45,19,4,South,Not Fraud
+19448,None,Partnered,118,6,3,West,Not Fraud
+43811.57,Minor,Non-Partnered,79,9,1,East,Not Fraud
+10519.86,None,Non-Partnered,20,13,2,South,Not Fraud
+3011.94,None,Partnered,64,13,3,South,Not Fraud
+29400.14,Minor,Partnered,93,4,2,South,Not Fraud
+19979.46,None,Non-Partnered,106,17,3,North,Not Fraud
+14787.67,Major,Non-Partnered,93,13,0,South,Not Fraud
+32083.56,Major,Partnered,67,1,4,West,Fraud
+27438.01,Minor,Non-Partnered,83,11,2,East,Not Fraud
+19359.21,Minor,Non-Partnered,3,5,3,East,Not Fraud
+12196.96,Major,Partnered,54,3,4,South,Not Fraud
+33724.57,None,Non-Partnered,78,12,2,South,Not Fraud
+31502.01,None,Partnered,64,3,1,South,Not Fraud
+24008.24,None,Non-Partnered,40,13,3,East,Not Fraud
+43466.37,Minor,Partnered,59,15,1,East,Not Fraud
+14299.15,None,Non-Partnered,55,3,0,North,Fraud
+9744.75,Minor,Partnered,62,0,1,West,Not Fraud
+18080.92,Major,Non-Partnered,4,12,1,North,Not Fraud
+24544.14,Major,Partnered,60,3,3,West,Fraud
+27433.39,Minor,Non-Partnered,116,19,0,North,Not Fraud
+22587.64,None,Non-Partnered,75,17,1,East,Not Fraud
+28520.55,Major,Non-Partnered,95,5,4,North,Not Fraud
+12484.61,Minor,Non-Partnered,107,2,2,West,Not Fraud
+39437.65,None,Non-Partnered,96,12,1,South,Not Fraud
+24178.49,None,Non-Partnered,91,15,0,West,Fraud
+36172.96,Major,Non-Partnered,30,4,1,South,Not Fraud
+28427.25,Minor,Non-Partnered,107,3,2,East,Not Fraud
+29567.53,Major,Non-Partnered,2,7,0,West,Not Fraud
+30697.67,Major,Partnered,62,18,3,North,Not Fraud
+29477.09,Minor,Partnered,49,13,0,West,Fraud
+31427.23,Minor,Non-Partnered,9,6,3,South,Not Fraud
+38291.53,None,Partnered,92,13,0,East,Not Fraud
+26965.21,None,Non-Partnered,31,5,2,North,Not Fraud
+32090.04,None,Non-Partnered,98,11,2,West,Not Fraud
+24102.64,Minor,Partnered,61,15,0,South,Not Fraud
+39401.17,Minor,Non-Partnered,79,16,1,North,Not Fraud
+18236.08,Major,Non-Partnered,48,12,2,East,Not Fraud
+43009.4,None,Partnered,25,13,3,North,Not Fraud
+24598.42,Minor,Partnered,36,6,3,East,Not Fraud
+10692.25,Minor,Non-Partnered,8,13,4,North,Not Fraud
+26281.04,Minor,Partnered,73,14,3,West,Not Fraud
+18189.48,Minor,Partnered,58,11,4,South,Not Fraud
+33406.44,None,Non-Partnered,101,16,0,West,Not Fraud
+18473.76,Minor,Partnered,112,8,0,West,Not Fraud
+20538.17,None,Partnered,45,14,0,East,Fraud
+6104.59,None,Non-Partnered,62,11,1,East,Not Fraud
+20476.94,None,Partnered,39,1,1,East,Not Fraud
+761.21,Minor,Partnered,96,4,4,West,Not Fraud
+9160.97,Major,Non-Partnered,58,12,3,North,Not Fraud
+32604.15,Minor,Non-Partnered,116,19,3,North,Fraud
+32858,Minor,Non-Partnered,81,7,0,West,Not Fraud
+29254.58,Minor,Partnered,99,13,2,West,Not Fraud
+15330.24,Minor,Non-Partnered,101,14,1,South,Fraud
+24522.89,None,Non-Partnered,83,10,1,East,Not Fraud
+24963.97,None,Partnered,64,0,0,East,Not Fraud
+13416.35,None,Non-Partnered,44,2,1,West,Not Fraud
+40033.98,None,Non-Partnered,29,16,0,West,Not Fraud
+33773.62,None,Non-Partnered,59,18,4,North,Not Fraud
+22790.36,None,Non-Partnered,71,13,3,West,Not Fraud
+25268.86,None,Partnered,92,7,2,North,Not Fraud
+27083.83,Major,Non-Partnered,9,12,3,West,Fraud
+4582.65,None,Non-Partnered,92,19,3,South,Not Fraud
+22528.23,None,Partnered,6,2,4,South,Not Fraud
+18180.16,None,Non-Partnered,29,4,1,North,Not Fraud
+14983.8,Minor,Partnered,58,8,2,East,Not Fraud
+22189,None,Partnered,17,5,1,South,Not Fraud
+42976.87,None,Partnered,16,1,3,North,Fraud
+31408.43,Minor,Non-Partnered,87,12,0,West,Not Fraud
+19288.21,None,Partnered,95,4,3,West,Not Fraud
+30725.83,None,Partnered,3,7,1,North,Not Fraud
